@@ -1,0 +1,7 @@
+Analisis Hasil
+Robert Operator:
+Hasil cenderung lebih kasar dan lebih sensitif terhadap noise karena ukuran kernel kecil.
+Cocok untuk mendeteksi perubahan tepi yang sangat tajam.
+Sobel Operator:
+Hasil lebih halus dan garis tepi lebih tegas.
+Kurang sensitif terhadap noise dibandingkan Robert karena kernel lebih besar.
